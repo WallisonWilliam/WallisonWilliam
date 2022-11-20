@@ -18,6 +18,8 @@
 
 - 💬 Ask me about *Reactjs & JavaScript*
 
+<br/>
+<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" height="25"/>&nbsp;Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"/> </h3>
 <div align="center"  class="icons-social" style="margin-left: 10px;">
 <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/wallisonwilliam/">
