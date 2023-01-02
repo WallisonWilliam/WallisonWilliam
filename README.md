@@ -50,6 +50,8 @@
   </div>
 </div>
 
+<hr/>
+
 | My statistic                                                                                                                                                            | Main languages                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=WallisonWilliam&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WallisonWilliam&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) |
