@@ -1,31 +1,66 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/WallisonWilliam?tab=repositories/" target="blank">Wallison William</a></h1>
-<h3 align="center">A passionate programmer from Recife-PE, Brazil.</h3>
+<div>
+<h3 align="center">Bem vindo(a) ao meu Github! 😄</h3>
+<hr>
+<br>
+<p>
+• Ciência da Computação - UNICAP, 6° Periodo 👨‍💻  
+</p>
+<p> 
+• Recife, Pernambuco, Brasil 🌴
+</p> 
+</div>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e3bedb4536004cc7ade9e59f3d12778b2d1f06e1&rid=giphy.gif&ct=g"/>
+<hr>  
+
+<div style="display: inline_block">  
+<p>
+<strong><h3>📱 Contatos:</h3></strong>  
+</p>  
+<a href = "https://www.linkedin.com/in/wallisonwilliam/"> <img height="20" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href = "https://www.instagram.com/sonwallison/"> <img height="20" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href = "mailto: wallisonwilliamm@gmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "https://api.whatsapp.com/send?phone=5587988476864&text=Enviar%20mensagem%20para%20Davi%20Mateus"> <img height="20" src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+<a href = "https://wallisonwilliam.vercel.app/"> <img height="20" src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
+</div>
+
+<div style="display: inline_block">  
+<p>
+  
+<hr>  
+  
+<strong><h3>⚙️ Skills:</h3></strong> 
+</p>  
+  <a href="https://github.com/wallisonwilliam">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"/>
+  </a>
+</div>
+
+<hr>  
+
+<strong><h3>📚 Tecnologias que pretendo estudar:</h3></strong> 
+</p>  
+ <div align="">
+  <a href="https://github.com/wallisonwilliam">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </a>
+  </div>
+</div>
+
+<hr>  
+
+<a href="https://github.com/wallisonwilliam">
+<div style="display: inline_block" align="center">  
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallisonwilliam1&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=wallisonwilliam1&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonwilliam1&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"/>
 </a>
-
-
-- 🔭 I'm looking for a job <img src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg" width="25" height="18"/>
-
-- 🌱 I have been concentrating on ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning about front-end technologies
-
-- 📫 How to reach me: *wallisonwilliamm@gmail.com*
-
-- 💬 Ask me about *Reactjs & JavaScript*
-
-<br/>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" height="25"/>&nbsp;Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"/> </h3>
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/wallisonwilliam/">
-<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sonwallison/">
-<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+  
+![Snake animation](https://github.com/wallisonwilliam/wallisonwilliam/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <p  align="center">
