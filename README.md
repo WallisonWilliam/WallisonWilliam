@@ -55,9 +55,9 @@
 
 <a href="https://github.com/wallisonwilliam">
 <div style="display: inline_block" align="center">  
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallisonwilliam1&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=wallisonwilliam1&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonwilliam1&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallisonwilliam&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=wallisonwilliam&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonwilliam&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"/>
 </a>
   
 ![Snake animation](https://github.com/wallisonwilliam/wallisonwilliam/blob/output/github-contribution-grid-snake.svg)
