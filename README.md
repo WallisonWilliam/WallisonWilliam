@@ -3,7 +3,7 @@
 <hr>
 <br>
 <p>
-• Ciência da Computação - UNICAP, 7° Periodo 👨‍💻  
+• Ciência da Computação - UNICAP, 8° Periodo 👨‍💻  
 </p>
 <p> 
 • Recife, Pernambuco, Brasil 🌴
