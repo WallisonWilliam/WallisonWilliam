@@ -1,59 +1,62 @@
-<div>
-<h3 align="center">Bem vindo(a) ao meu Github! 😄</h3>
-<hr>
-<br>
-<p>
-• Ciência da Computação - UNICAP, 8° Periodo 👨‍💻  
+<h2 align="center">👨‍💻 Wallison William</h2>
+<p align="center">
+Desenvolvedor de Software Júnior | Java | Spring Boot | APIs REST
 </p>
-<p> 
-• Recife, Pernambuco, Brasil 🌴
-</p> 
+
+---
+
+## 👋 Sobre mim
+
+Sou formado em **Ciência da Computação pela UNICAP** e atualmente atuo com tecnologia, com foco em desenvolvimento backend.
+
+Tenho experiência com análise de sistemas, suporte e melhoria de processos, além de conhecimento em desenvolvimento utilizando **Java, APIs REST e banco de dados relacionais**.
+
+Busco minha primeira oportunidade como **Desenvolvedor de Software Júnior**, onde eu possa evoluir tecnicamente e contribuir com soluções eficientes.
+
+📍 Recife, Pernambuco - Brasil
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div style="display: inline_block">
+
+<img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"/>
+<img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 </div>
 
-<hr>  
+---
 
-<div style="display: inline_block">  
-<p>
-<strong><h3>📱 Contatos:</h3></strong>  
-</p>  
-<a href = "https://www.linkedin.com/in/wallisonwilliam/"> <img height="30" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href = "https://www.instagram.com/sonwallison/"> <img height="30" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-<a href = "mailto: wallisonwilliamm@gmail.com"> <img height="30" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+## 📚 Atualmente estudando
 
-<div style="display: inline_block">  
-<p>
-  
-<hr>  
-  
-<strong><h3>⚙️ Skills:</h3></strong> 
-</p>  
-  <a href="https://github.com/wallisonwilliam">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"/>
-  </a>
-</div>
+- Spring Boot (APIs REST)
+- Boas práticas de backend
+- Testes com JUnit
+- Arquitetura de sistemas
 
-<hr>  
+---
 
-<strong><h3>📚 Tecnologias que pretendo estudar:</h3></strong> 
-</p>  
- <div align="">
-  <a href="https://github.com/wallisonwilliam">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  </a>
-  </div>
-</div>
+## 📱 Contatos
 
-<hr/>
+<a href="https://www.linkedin.com/in/wallisonwilliam/">
+<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-| My statistic                                                                                                                                                            | Main languages                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=WallisonWilliam&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WallisonWilliam&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact) |
+<a href="mailto:wallisonwmelo@gmail.com">
+<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
+---
+
+## 📊 GitHub Stats
+
+| Estatísticas | Linguagens |
+|-------------|------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WallisonWilliam&show_icons=true&hide_border=true&count_private=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallisonWilliam&layout=compact&hide_border=true&theme=radical) |
