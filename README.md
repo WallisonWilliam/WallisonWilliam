@@ -7,13 +7,15 @@ Desenvolvedor de Software Júnior | Java | Spring Boot | APIs REST
 
 ## 👋 Sobre mim
 
-Sou formado em **Ciência da Computação pela UNICAP** e atualmente atuo com tecnologia, com foco em desenvolvimento backend.
+Sou formado em **Ciência da Computação pela UNICAP** e atualmente atuo como **Estagiário de Sistemas**, com experiência anterior em **Redes**.
 
-Tenho experiência com análise de sistemas, suporte e melhoria de processos, além de conhecimento em desenvolvimento utilizando **Java, APIs REST e banco de dados relacionais**.
+No meu estágio, trabalho com análise de chamados, melhoria de processos e consultas em banco de dados (**SQL Server**), contribuindo para a evolução de sistemas corporativos.
+
+Tenho conhecimento em desenvolvimento backend utilizando **Java, Spring Boot, APIs REST e banco de dados relacionais**.
 
 Busco minha primeira oportunidade como **Desenvolvedor de Software Júnior**, onde eu possa evoluir tecnicamente e contribuir com soluções eficientes.
 
-📍 Recife, Pernambuco - Brasil
+📍 Recife, PE - Brasil
 
 ---
 
